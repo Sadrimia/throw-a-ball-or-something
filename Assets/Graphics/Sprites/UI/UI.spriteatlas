@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 09002e637b28af04d9408f5abf3e24d3, type: 3}
+    - {fileID: 2800000, guid: b2ea432c2695bd84eaa7f797ae937928, type: 3}
+    - {fileID: 2800000, guid: 655fe77ceee1605498f6ab55ee2e855c, type: 3}
+    - {fileID: 2800000, guid: 346a0786c6220d6419d1f010b674eb28, type: 3}
+    - {fileID: 2800000, guid: 5e7ebcc584ab613409daabb96cc79761, type: 3}
+    - {fileID: 2800000, guid: 89b16259ce1e00949b1113fa754f3d3e, type: 3}
+    - {fileID: 2800000, guid: 00763aab55a6d134bbe1c9f6468300ba, type: 3}
+    - {fileID: 2800000, guid: 1e0b6ebcd5b0ca34aaab5c1c5478ef33, type: 3}
+    - {fileID: 2800000, guid: c9b53fb8c92cf1745b225b8dcc7f0c72, type: 3}
+    - {fileID: 2800000, guid: 9e31ca61526a78141b7716c81858d92c, type: 3}
+    - {fileID: 2800000, guid: 527d6ba4074c5d54ba2e8191027cda81, type: 3}
+    - {fileID: 2800000, guid: e4f4d277d01171044b4cf4523953048b, type: 3}
+    - {fileID: 2800000, guid: a4710a36ffa23f64fb985462e58686ff, type: 3}
+    - {fileID: 2800000, guid: bc814c1ab51464e449a58f2cdaacf99a, type: 3}
+    - {fileID: 2800000, guid: c6684421bdd558f4baaec52fdb9823a0, type: 3}
+    - {fileID: 2800000, guid: 2a6c7b84a9ad6ea409ec52f65adf0d22, type: 3}
+    - {fileID: 2800000, guid: 6f10490b0a0918a469f9a530d94d46be, type: 3}
+    - {fileID: 2800000, guid: 02d6cae34f6e22f4caa9fe2388ebfda8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c6684421bdd558f4baaec52fdb9823a0, type: 3}
+  - {fileID: 21300000, guid: 9e31ca61526a78141b7716c81858d92c, type: 3}
+  - {fileID: 21300000, guid: 09002e637b28af04d9408f5abf3e24d3, type: 3}
+  - {fileID: 21300000, guid: 02d6cae34f6e22f4caa9fe2388ebfda8, type: 3}
+  - {fileID: 21300000, guid: 2a6c7b84a9ad6ea409ec52f65adf0d22, type: 3}
+  - {fileID: 21300000, guid: 527d6ba4074c5d54ba2e8191027cda81, type: 3}
+  - {fileID: 21300000, guid: 5e7ebcc584ab613409daabb96cc79761, type: 3}
+  - {fileID: 21300000, guid: a4710a36ffa23f64fb985462e58686ff, type: 3}
+  - {fileID: 21300000, guid: 346a0786c6220d6419d1f010b674eb28, type: 3}
+  - {fileID: 21300000, guid: e4f4d277d01171044b4cf4523953048b, type: 3}
+  - {fileID: 21300000, guid: c9b53fb8c92cf1745b225b8dcc7f0c72, type: 3}
+  - {fileID: 21300000, guid: 89b16259ce1e00949b1113fa754f3d3e, type: 3}
+  - {fileID: 21300000, guid: bc814c1ab51464e449a58f2cdaacf99a, type: 3}
+  - {fileID: 21300000, guid: 6f10490b0a0918a469f9a530d94d46be, type: 3}
+  - {fileID: 21300000, guid: 00763aab55a6d134bbe1c9f6468300ba, type: 3}
+  - {fileID: 21300000, guid: b2ea432c2695bd84eaa7f797ae937928, type: 3}
+  - {fileID: 21300000, guid: 655fe77ceee1605498f6ab55ee2e855c, type: 3}
+  - {fileID: 21300000, guid: 1e0b6ebcd5b0ca34aaab5c1c5478ef33, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Background
+  - Button4
+  - Vibration
+  - ScoreBack
+  - Sounds
+  - Exclude
+  - BallSelection
+  - menu
+  - ball-of-basketball-_1_ 1
+  - Left
+  - Button3
+  - Button
+  - Right
+  - ScoreFore
+  - Button1
+  - UpPanel
+  - Start
+  - Button2
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
